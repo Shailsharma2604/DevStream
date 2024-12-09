@@ -21,10 +21,10 @@ const SideBar = () => {
     },
     { icon: <MdSubscriptions />, name: "Subscriptions", to: "/" },
     { icon: <MdVideoLibrary />, name: "Library", to: "/" },
-    { icon: <MdDescription />, name: "Notes", to: "/" },
-    { icon: <RiVideoFill />, name: "Interview", to: "/" },
+    { icon: <MdDescription />, name: "Notes", to: "https://app.simplenote.com/" },
+    { icon: <RiVideoFill />, name: "Interview", to: "https://www.interviewbit.com/web-designer-interview-questions/" },
     { icon: <MdComment />, name: "Community", to: "/" },
-    { icon: <MdNoteAdd />, name: "Assignment", to: "/" },
+    { icon: <MdNoteAdd />, name: "Assignment", to: "https://www.guru.com/" },
   ];
   const SideBtn = ({ icon, btnName }) => {
     return (

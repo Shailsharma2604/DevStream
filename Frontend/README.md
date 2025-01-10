@@ -41,3 +41,6 @@ This project uses the following dependencies:
 - TailwindCSS
 
 These dependencies are listed in the `package.json`
+
+
+add navroop details
